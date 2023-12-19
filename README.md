@@ -1,4 +1,4 @@
-#About this code
+About this code
 This code as described on Guzelsoy, Elorza, et al. 2024.
 It is based on the IDL implementation. 
 
