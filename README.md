@@ -15,7 +15,7 @@ This package contains three main parts:
 
 This code requires a version of Matlab (tested on Ver 8.1 and later versions including Ver 23.2). The code also requires Matlab’s Image Processing Toolbox and Statistics and Machine Learning Toolbox.
 
-There is no specific minimum for computer memory and processing power. However, the size and number of images to be analyzed may impose limitations.
+There is no specific minimum for computer memory and processing power. However, the size and number of images to be analyzed may impose limitations. No special hardware is required.
 
 2. Installation guide:
 Instructions
